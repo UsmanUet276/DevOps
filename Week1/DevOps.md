@@ -2,7 +2,7 @@
 
 DevOps is a methodology that aims to bridge the gap between development and operations teams by promoting collaboration and communication between the two. It is a cultural shift that focuses on breaking down silos between teams, encouraging automation, and fostering a continuous feedback loop to ensure that software is delivered faster, with fewer errors, and more efficiently.
 
-![](../Images\DevOps.jpg)
+<img src="../Images/DevOps.jpg" />
 
 ## Explanation
 
