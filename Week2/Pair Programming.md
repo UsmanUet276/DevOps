@@ -8,7 +8,7 @@ XP encourages pair programming, where two developers work on the same code simul
 
 ## Benefits
 
-1. ** Fewer mistakes in the code: **
+1. ##### Fewer mistakes in the code: 
 
    When two people work on the code together, they can catch errors and problems sooner, resulting in better-quality code.
 
