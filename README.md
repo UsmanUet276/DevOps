@@ -48,7 +48,7 @@ Let's dive into the course breakdown:
 - What is multi-cloud, hybrid multi-cloud, and serverless? 🌐
 - What are cloud-native applications? 🏢
 - How does DevOps work on the cloud? 🔄
-- What is the difference between DevOps and DevSecOps? 🔒
+- What is the difference between DevOps and Develops? 🔒
 - What is cloud monitoring? 📊
 
 ## Week 5: Hands-on Experience
