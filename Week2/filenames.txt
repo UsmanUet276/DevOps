@@ -1,0 +1,12 @@
+Behavior-Driven Development.md
+Benefits of working in batches in Agile Development.md
+Cloud Native Microservices.md
+Designing for Failure in DevOps.md
+Extreme Programming.md
+filenames.txt
+Guidelines for using Git in Agile Development.md
+Importance of TDD in DevOps.md
+Minimum Viable Product.md
+Pair Programming.md
+Taylorism.md
+Test-Driven Development.md

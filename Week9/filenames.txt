@@ -1,0 +1,6 @@
+Advanced Ansible for Configuration Management.md
+Advanced Git for DevOps.md
+Advanced Jenkins for Continuous Integration.md
+Advanced Monitoring and Logging Logging with ELK Stack.md
+Advanced Terraform for Infrastructure as Code.md
+filenames.txt

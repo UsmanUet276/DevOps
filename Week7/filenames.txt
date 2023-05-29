@@ -1,0 +1,6 @@
+Basic Linux Commands.md
+Configuration Management with Ansible.md
+Containerization with Docker.md
+filenames.txt
+Microservices Architecture.md
+The Selenium Browser Automation Project.md
