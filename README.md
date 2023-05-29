@@ -2,7 +2,7 @@
 
 Welcome to the DevOps course repository! 🚀
 
-Here you will find all the resources and lecture notes for the 10-week DevOps course. Each week covers different topics related to DevOps methodologies, tools, and practices. Feel free to explore the materials and enhance your knowledge in the exciting field of DevOps.
+Here you will find all the resources and lecture notes for the 11-week DevOps course. Each week covers different topics related to DevOps methodologies, tools, and practices. Feel free to explore the materials and enhance your knowledge in the exciting field of DevOps.
 
 Let's dive into the course breakdown:
 
@@ -92,6 +92,10 @@ Let's dive into the course breakdown:
 - Advanced Cloud Computing ☁️
 - Advanced Security in DevOps 🔒
 - Advanced Incident Response and Management 🔥
+
+## Week 11: Kubernetes Crash Course for Absolute Beginners
+
+- YouTube video [link](https://youtu.be/s_o8dwzRlu4) :clapper:
 
 Feel free to explore the lecture notes and resources provided in each week's folder. Happy learning! 🎓
 
