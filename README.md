@@ -91,6 +91,7 @@ Let's dive into the course breakdown:
 - Advanced Docker for Containerization 🐳
 - Advanced Cloud Computing ☁️
 - Advanced Security in DevOps 🔒
+- Advanced Incident Response and Management 🔥
 
 Feel free to explore the lecture notes and resources provided in each week's folder. Happy learning! 🎓
 
